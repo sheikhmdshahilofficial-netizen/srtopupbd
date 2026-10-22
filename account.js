@@ -1,7 +1,7 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (SRTTOPUP)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "SRTTOPUP";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
